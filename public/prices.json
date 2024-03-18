@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "type": "Basic",
+        "price": 30,
+        "benefits": ["Cardio Access", "Weightlifting Access"]
+    },
+    {
+        "id": 2,
+        "type": "Standard",
+        "price": 50,
+        "benefits": ["Cardio Access", "Weightlifting Access", "Group Classes"]
+    },
+    {
+        "id": 3,
+        "type": "Premium",
+        "price": 80,
+        "benefits": ["Cardio Access", "Weightlifting Access", "Group Classes", "Personal Training"]
+    }
+]
